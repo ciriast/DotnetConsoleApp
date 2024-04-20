@@ -1,0 +1,15 @@
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/bin/Debug/net8.0/DotnetConsoleApp
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/bin/Debug/net8.0/DotnetConsoleApp.deps.json
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/bin/Debug/net8.0/DotnetConsoleApp.runtimeconfig.json
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/bin/Debug/net8.0/DotnetConsoleApp.dll
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/bin/Debug/net8.0/DotnetConsoleApp.pdb
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.AssemblyInfoInputs.cache
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.AssemblyInfo.cs
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.csproj.CoreCompileInputs.cache
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.sourcelink.json
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.dll
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/refint/DotnetConsoleApp.dll
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.pdb
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/DotnetConsoleApp.genruntimeconfig.cache
+/home/ciri/workspace/github.com/ciriast/DotnetConsoleApp/obj/Debug/net8.0/ref/DotnetConsoleApp.dll
